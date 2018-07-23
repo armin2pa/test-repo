@@ -3,6 +3,7 @@
 You can use [editor back to main page](https://armin2pa.github.io/Armand-Kuplaste)to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![20180723_191305](https://user-images.githubusercontent.com/40921746/43107922-09a8fe88-8e94-11e8-991c-442b1d0819a0.jpg)
 
 ### Markdown
 ---

@@ -8,7 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 ---
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Converting py to exe in ubuntu command line
+---
+[Video Tutorial](https://youtu.be/lOIJIk_maO4)
 ```markdown
 Syntax highlighted code block
 ---
